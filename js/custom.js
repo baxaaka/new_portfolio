@@ -38,6 +38,22 @@ let technology = {
 
 let projects = [
   {
+    name: "TODO APP",
+    about:
+      "A simple and effective task management tool built with React and Vite.js. This Todo App helps you manage your daily tasks with ease. Add tasks to your list, check them off as you complete them, and move completed tasks to the 'Done' section. Your tasks are stored locally, ensuring that you never lose track of what's important. Best of all, you can start using it immediately—no need to register or log in!",
+    link: "https://github.com/Baxrullo777/todo-app.git",
+    realLink:"https://baxa-todo-app.vercel.app/",
+    tech: [5],
+  },
+  {
+    name: "UZ-DONGJU PEINT KOMPANI BOT",
+    about:
+      " Developed Paint bot, a Node.js-based both using the Telegraph framework, designed to assist users in selecting and viewing paint color.",
+    link: "#",
+    realLink:"https://t.me/Uz_Dong_Ju_QB_bot",
+    tech: [ 4, 6,11],
+  },
+  {
     name: "5baho.uz",
     about:
       "To enhance users' learning experience. The platform serves as a centralized hub where users can access, read, and download a wide range of educational materials, including books and PDF resources.Additionally, it facilitates interactive learning through various features.",
@@ -52,14 +68,6 @@ let projects = [
       "Developed a dynamic and engaging typing game using HTML, JavaScript, and CSS,providing users with an interactive and entertaining experience.",
     link: "https://github.com/Muhammadziyo-web/Online-video-courses",
     tech: [1,9,8],
-  },
-  {
-    name: "Edufond bot",
-    about:
-      "In our bot, you can order work on various educational areas. Leave your order directly in the bot and we will help you complete the task. In addition, we also have the option to download ready-made documents . If you need already prepared materials, you can easily find them at our bottom",
-    link: "https://github.com/baxaaka/edufond_bot",
-    realLink:"https://t.me/edufond_bot",
-    tech: [1, 4, 6,11],
   },
   {
     name: "Namoz vaqtlari",
